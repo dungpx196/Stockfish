@@ -70,10 +70,10 @@ endif
 # at the end of the line for flag values.
 
 ### 2.1. General and architecture defaults
-optimize = yes
-debug = no
+optimize = no
+debug = yes
 sanitize = no
-bits = 32
+bits = 64
 prefetch = no
 popcnt = no
 sse = no
